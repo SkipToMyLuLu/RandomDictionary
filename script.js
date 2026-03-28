@@ -1,3 +1,4 @@
+// Get JSONC Data
 fetch('./words.json')
     .then(response => response.json()) //What im guessing this does: probably takes the output of fetch
     // and the .then turns response into that output, and parses it into JSON
