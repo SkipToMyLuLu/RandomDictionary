@@ -1,0 +1,24 @@
+#page_Title {
+    /* background-color: color-mix(in srgb, rgb(255, 105, 180) 5%, rgb(0, 221, 255)); */
+    background-size: 0.1em;
+    background-color: hotpink;
+    border-color: hotpink;
+    border-radius: 2em;
+    corner-top-left-shape: squircle;
+    corner-top-right-shape: notch;
+    corner-bottom-left-shape: square;
+    /* corner-bottom-right-shape: square; */
+
+    font-size: 2.5em;
+    /* make bold here. . . somehow */
+    font-family: Tahoma;
+    text-align: center;
+    align-self: center;
+
+}
+
+#title_Labler {
+    font-family: Arial;
+    text-align: center;
+    align-self: center;
+}
